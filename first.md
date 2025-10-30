@@ -4,3 +4,4 @@
 ## 1-1. 세부 항목
 * 안녕하세요
 * 반갑습니다
+* feature/mypage가 first.md를 수정함
