@@ -9,3 +9,4 @@
 
 # 병합 연습
 * feature/login 파일 생성함
+* feature/logout 파일 생성함
