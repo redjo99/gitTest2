@@ -6,3 +6,6 @@
 * 반갑습니다
 * feature/mypage가 first.md를 수정함
 * feature/cart가 first.md 수정함
+
+# 병합 연습
+* feature/login 파일 생성함
